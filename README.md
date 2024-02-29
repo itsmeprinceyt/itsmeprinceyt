@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate developer from India learning new things and on my way to become a Full Stack Developer!<br><br>🌱 I’m currently learning Javscript, React, TailwindCSS, nodeJS, ExpressJS, mongoDB.<br>📝 I regularly write articles on https://twitter.com/itsmeprinceyt<br>💬 Ask me about Django, C++, C, Python, HTML & CSS.<br>📫 How to reach me mohammadbadshah92@gmail.com<br>⚡ Fun fact I'm a Gamer
+A passionate developer from India learning new things and on my way to become a Full Stack Developer!<br><br>🌱 I’m currently learning Javscript, React, TailwindCSS, nodeJS, ExpressJS, mongoDB.<br><br>📝 I regularly write articles on https://twitter.com/itsmeprinceyt<br><br>💬 Ask me about Django, C++, C, Python, HTML & CSS.<br><br>📫 How to reach me mohammadbadshah92@gmail.com<br><br>⚡ Fun fact is that I'm also a Gamer
 
 
 ## 🌐 Socials:
