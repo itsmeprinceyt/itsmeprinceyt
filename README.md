@@ -1,4 +1,4 @@
-# 💫 Hi, I'm Mohd Uvaish
+# <center>💫 Hi, I'm Mohd Uvaish</center>
 I am a passionate developer from India learning new things and on my way to becoming a Full Stack Developer!<br><br>🌱 I’m currently learning Javascript, React, TailwindCSS, nodeJS, ExpressJS, MongoDB.<br><br>📝 I regularly write articles on https://twitter.com/itsmeprinceyt<br><br>💬 Ask me about Django, C++, C, Python, HTML & CSS.<br><br>📫 How to reach me mohammadbadshah92@gmail.com<br><br>⚡ Fun fact is that I'm also a Gamer
 
 
