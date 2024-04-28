@@ -1,5 +1,5 @@
-# 💫 Hi, I'm Mohd Uvaish
-I am a passionate developer from India learning new things and on my way to becoming a Full Stack Developer!<br><br>🌱 I’m currently learning [Order: Javascript, nodeJS, React, TailwindCSS, ExpressJS, NextJS, MongoDB.]<br><br>📝 I regularly write articles on https://twitter.com/itsmeprinceyt<br><br>💬 Ask me about Django, C++, C, Python, HTML & CSS.<br><br>📫 How to reach me mohammadbadshah92@gmail.com<br><br>⚡ Fun fact is that I'm also a Gamer
+# 💫 Hi, I'm Prince
+I am a passionate developer from India learning new things and on my way to becoming a Full Stack Developer!<br><br>🌱 I’m currently learning [Order:  Next.js, TailwindCSS]<br><br>📝 I regularly write articles on https://twitter.com/itsmeprinceyt<br><br>💬 Ask me about Django, C++, C, Python, HTML & CSS.<br><br>📫 How to reach me mohammadbadshah92@gmail.com<br><br>⚡ Fun fact is that I'm also a Gamer
 
 
 ## 🌐 Socials:
