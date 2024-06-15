@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Prince
-I am a passionate developer from India learning new things and on my way to becoming a Full Stack Developer!<br><br>🌱 I’m currently learning Next.js & TailwindCSS<br><br>📝 I regularly share my work on 
+I am a passionate developer from India learning new things and on my way to becoming a Full Stack Developer!<br><br>🌱 I’m currently learning perfecting my Web Development Skills and learning DSA in C++ <br><br>📝 I regularly share my work on 
 - https://twitter.com/itsmeprinceyt
 - https://www.linkedin.com/in/mohduvaish
 
