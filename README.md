@@ -10,7 +10,7 @@ I am a passionate developer from India learning new things and on my way to beco
 <a href="https://instagram.com/itsmeprinceyt">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Instagram.svg" width="50px">
 </a>
-<a href="https://youtube.com/@ItsMePrince0">
+<a href="https://youtube.com/@itsmeprinceyt">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Youtube.svg" width="50px">
 </a>
 <a href="https://linkedin.com/in/mohd-uvaish-045783252">
