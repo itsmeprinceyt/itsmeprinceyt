@@ -6,23 +6,9 @@ I am a passionate developer from India learning new things and on my way to beco
 💬 Ask me about any Tech Stack which I'm familiar with<br><br>📫 How to reach me mohammadbadshah92@gmail.com<br><br>⚡ Fun fact is that I'm also a Gamer
 
 
-## 🌐 Socials:
-<a href="https://instagram.com/itsmeprinceyt">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Instagram.svg" width="50px">
-</a>
-<a href="https://youtube.com/@itsmeprinceyt">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Youtube.svg" width="50px">
-</a>
-<a href="https://linkedin.com/in/mohd-uvaish-045783252">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" width="50px">
-</a>
-<a href="https://x.com/itsmeprinceyt">
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-round-icon.png" width="50px">
-</a>
-<a href="https://discord.gg/HgXNs4p5cx">
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-round-color-icon.png" width="50px">
-</a>
-<br><br>
+
+[![GitHub](https://www.shieldcn.dev/badge/GitHub-%40itsmeprinceyt-181717.svg?logo=github&variant=branded&theme=stone)](https://github.com/itsmeprinceyt) [![X Follow](https://www.shieldcn.dev/x/follow/itsmeprinceyt.svg?variant=branded&theme=stone)](https://x.com/itsmeprinceyt) [![Website](https://www.shieldcn.dev/badge/Website-www.itsmeprince.com-181717.svg?logo=ri%3ALuLink&variant=branded&theme=stone)](https://www.itsmeprince.com/) [![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-%40mohduvaish-0A66C2.svg?logo=linkedin&variant=branded&theme=stone)](https://www.linkedin.com/in/mohduvaish) [![YouTube](https://www.shieldcn.dev/badge/YouTube-%40itsmeprinceyt-FF0000.svg?logo=youtube&variant=branded&theme=stone)](https://youtube.com/@itsmeprinceyt) [![Instagram](https://www.shieldcn.dev/badge/Instagram-Instagram-E4405F.svg?logo=instagram&variant=branded&theme=stone)](https://instagram.com/itsmeprinceyt)
+
 
 # 💻 Tech Stack:
 
